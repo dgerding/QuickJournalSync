@@ -1,3 +1,5 @@
+[WARNING - Demo Fork for Testing - Don't Follow ] 
+
 # QuickJournalSync
 
 **QuickJournalSync** shows how to integrate Realm and [Atlas Device Sync](https://www.mongodb.com/docs/atlas/app-services/sync/get-started/) in a sample MAUI application, with particular focus on error handling, connection state changes and offline realms. This app is a synced version of [`QuickJournal`](https://github.com/realm/realm-dotnet/tree/main/examples/QuickJournal), so check that out if you are mainly interested in how Realm can be used effectively in conjunction with MVVM and data binding.
