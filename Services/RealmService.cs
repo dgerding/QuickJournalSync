@@ -12,7 +12,7 @@ namespace QuickJournalSync.Services;
 
 public static class RealmService
 {
-    private static readonly string _appId = ""; // NEEDS APP ID FROM MONGODB "REALM" APP SERVICE
+    private static readonly string _appId = "quickjournalsyncsf-nyegwpy"; // NEEDS APP ID FROM MONGODB "REALM" APP SERVICE
 
     private static bool _serviceInitialised;
 
